@@ -87,7 +87,7 @@ To update model path or parameters, edit `llama/config.py`.
 
 ---
 
-## 📸 Preview (Coming Soon)
+## 📸 Preview 
 
 <img width="959" height="505" alt="go1" src="https://github.com/user-attachments/assets/6e9adbaf-416f-41cb-b006-2ecedff7948f" />
 <img width="569" height="364" alt="go3" src="https://github.com/user-attachments/assets/810d8054-fd5f-4eda-823c-6c9c53e288b6" />
@@ -98,6 +98,8 @@ To update model path or parameters, edit `llama/config.py`.
 
 
 ---
+
+
 
 ## 💪 Vision
 
