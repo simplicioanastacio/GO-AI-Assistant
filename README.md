@@ -45,6 +45,7 @@ GO is an **AI voice-based personal assistant** designed for **marathon runners a
 
 ---
 
+## 🎥 [watch the demo Video here] https://drive.google.com/file/d/1QQyGlCunEKXfG-Iu0oilOJC7D3cu3Lip/view?usp=drive_link
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the Repo
