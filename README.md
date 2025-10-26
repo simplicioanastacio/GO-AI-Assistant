@@ -90,6 +90,11 @@ To update model path or parameters, edit `llama/config.py`.
 ## 📸 Preview (Coming Soon)
 
 <img width="959" height="505" alt="go1" src="https://github.com/user-attachments/assets/6e9adbaf-416f-41cb-b006-2ecedff7948f" />
+<img width="569" height="364" alt="go3" src="https://github.com/user-attachments/assets/810d8054-fd5f-4eda-823c-6c9c53e288b6" />
+<img width="538" height="397" alt="go4" src="https://github.com/user-attachments/assets/a0a3d497-fdde-4fb0-9157-836faeb69421" />
+<img width="538" height="335" alt="go5" src="https://github.com/user-attachments/assets/c390e6db-ff57-497c-8e3b-a8b6995d1046" />
+
+
 
 
 ---
